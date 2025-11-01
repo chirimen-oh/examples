@@ -1,2 +1,4 @@
 # examples
-このリポジトリは、CHIRIMEN Open Hardware コミュニティでコントリビュートされたデバイスの Example リポジトリです
+
+このリポジトリは、CHIRIMEN Open Hardware コミュニティでコントリビュートされた  
+デバイスの Example リポジトリです
