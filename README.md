@@ -3,13 +3,13 @@
 このリポジトリは、CHIRIMEN Open Hardware コミュニティでコントリビュートされた  
 デバイスの Example リポジトリです
 
-### Node 用 Eaxmple
+### Node 用 Example
 
 #### 主に Raspberry Pi Zero で使用します。
 
 - [chirimen-drivers/node-examples](https://github.com/chirimen-oh/chirimen-drivers/tree/master/node-examples)
 
-### Browser 用 Eaxmple
+### Browser 用 Example
 
 #### 主に Raspberry Pi 3/4 で使用します。
 
@@ -17,12 +17,12 @@
 - [chirimen/gc/gpio](https://github.com/chirimen-oh/chirimen/tree/master/gc/gpio)
 - [chirimen/gc/i2c](https://github.com/chirimen-oh/chirimen/tree/master/gc/i2c)
 
-### micro:bit 用 Eaxmple
+### micro:bit 用 Example
 
 - [chirimen-drivers/microbit-examples](https://github.com/chirimen-oh/chirimen-drivers/tree/master/microbit-examples)
 - [chirimen-micro-bit/examples](https://github.com/chirimen-oh/chirimen-micro-bit/tree/master/examples)
 
-### リモート（RelayServer.js） 用 Eaxmple
+### リモート（RelayServer.js） 用 Example
 
 - [remote-connection/examples](https://github.com/chirimen-oh/remote-connection/tree/master/examples)
 
